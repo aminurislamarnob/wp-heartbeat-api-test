@@ -24,7 +24,7 @@ bin/build.sh
 
 ### Shortcode
 
-Use this shortcode `[welabs_chatbox]` to any page to view simple chatbox.
+Use this shortcode `[welabs_chatbox]` to any page to view simple chatbox. You can see result on browser console.
 
 ### Resources
 
